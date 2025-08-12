@@ -13,10 +13,9 @@ The pipeline is designed for benchmarking multiple pre-trained models across dat
 ---
 
 ## 📂 Dataset
-You can download the dataset from the provided Google Drive link:
-
-🔗 **[Google Drive Dataset Link](YOUR_GOOGLE_DRIVE_LINK_HERE)**
-
+You can download the dataset from the following links:
+1. *Dataset -1*: https://github.com/hafeez-anwar/FGBR
+2. *Dataset -2*: https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species
 After downloading, update the `dataset_path` in your `config.yaml` to point to the dataset location.
 
 ---
