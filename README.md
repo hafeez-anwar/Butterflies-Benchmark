@@ -1,4 +1,9 @@
-# 🖼️ Model Encoding & Classification Pipeline
+# Image-based Butterflies Species Classification
+
+<p align="center">
+  <img src="asset/img.png" alt="SolClean Block Diagram" width="720">
+</p>
+
 
 This repository contains a **flexible, config-driven pipeline** for:
 1. Extracting image features (encodings) using pre-trained CNN and Transformer models.
