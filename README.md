@@ -32,8 +32,8 @@ After downloading, update the `dataset_path` in your `config.yaml` to point to t
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/model-encoding-classification-pipeline.git
-cd model-encoding-classification-pipeline
+git clone https://github.com/hafeez-anwar/Butterflies-Benchmark.git
+cd Butterflies-Benchmark
 ```
 
 2. **Create a virtual environment (recommended)**
