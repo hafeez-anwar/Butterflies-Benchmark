@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+.env.*
+*.egg-info/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Data & outputs
+encodings/
+results/
+failed_models.log
+*.joblib
+*.npy
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+numpy
+pandas
+scikit-learn
+Pillow
+tqdm
+safetensors
+pyyaml
+openpyxl
+joblib
