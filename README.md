@@ -13,7 +13,7 @@ The pipeline is designed for benchmarking multiple pre-trained models across dat
 ---
 
 ## 📂 Dataset
-You can download the dataset from the following links:
+You can download the datasets from the following links:
 
 1. *Dataset -1*: https://github.com/hafeez-anwar/FGBR
    
